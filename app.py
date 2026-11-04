@@ -276,9 +276,7 @@ def survey_page() -> None:
         <div class="note">
           This survey is anonymous: we do not collect your name or email, and no
           individual responses will be shared, only aggregated themes.
-          Participation is voluntary. We will share a short summary of the results
-          with everyone who takes part.<br>
-          Questions about data handling? Contact your local Data Privacy Officer.
+          Participation is voluntary.<br>
         </div>
         """,
         unsafe_allow_html=True,
